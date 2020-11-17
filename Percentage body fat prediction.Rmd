@@ -1,6 +1,6 @@
 ---
 title: "project"
-author: "Anker,Alice,Utsav,James"
+author: "Anker"
 date: "11/5/2020"
 output: html_document
 ---
